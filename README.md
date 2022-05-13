@@ -1,4 +1,4 @@
-# Open Graph Generato - SEO
+# Open Graph Generator - SEO
 Simple and easy html code maker for SEO
 
 # install git
