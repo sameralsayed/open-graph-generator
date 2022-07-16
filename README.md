@@ -1,8 +1,6 @@
 # Open Graph Generator - SEO
 Simple and easy html code maker for SEO
 
-[Buy Now](https://payhip.com/b/kOm1a)
-
 # install git
 
 ```python
